@@ -1,0 +1,15 @@
+set history=50
+set hlsearch
+set ruler
+set ic
+set si
+set tabstop=4
+set softtabstop=4
+set sw=4
+set expandtab
+set backup
+set writebackup
+set backupdir=~/.vim-backups
+set directory=~/.vim-backups
+set textwidth=100
+set pastetoggle=<F5>
